@@ -1,76 +1,64 @@
-# Website Traffic Viewer Auto Backlink
+# BotMan 🔍👻 Multi Platform Bot Manager
+---
+### 🚀 **Installation**  
+git clone https://github.com/bot-manager/Dark-Net-Map.git  
+cd bot-manager
+pip3 install -r requirements.txt
 
-1. **Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
+# Linux (Debian/Ubuntu)
+sudo apt update
 
-2. **Setup database:**
-```bash
-python setup.py
-```
+🛠️ Features
 
-3. **Run server:**
-```bash
-python main.py
-```
+1. E-Commerce Traffic Bot
+✅ TikTok Shop: Increase product traffic, simulate views, scrolls, add-to-carts
+✅ Lazada: Product visits, simulated interactions, add-to-carts
+✅ Shopee: Product traffic, simulated purchases, interactions with variations
+✅ Multi-platform support: Can run on all platforms simultaneously
 
-4. **Access dashboard:**
-```
-http://localhost:5000
-login: admin / password
-```
+2. Social Media Traffic Bot
+✅ Multi-platform: Facebook, Instagram, Twitter, TikTok, LinkedIn, Pinterest
+✅ Various actions: Likes, shares, comments, saves, views
+✅ Intensity control: Low, Medium, High, Very High
+✅ Controlled duration: Runs for a specified time
 
-5. **Add tracker to your website:**
-```html
-<script src="http://your-server:5000/static/tracker.js"></script>
-```
+3. Target Manager
+✅ Load from JSON file: Import targets in a structured format
+✅ Target management: Add, edit, delete, and test targets
+✅ Multi-platform targets: Supports various e-commerce and social media platforms
 
-# **Key Features:**
+4. User Agent Manager
+✅ Load from TXT file: Import a list of user agents
+✅ Generate random: Generate user agents automatically
+✅ Complete management: Add, remove, test, shuffle
 
-✅ **Traffic Analytics:**
-- Real-time visitor tracking
-- Geographic location tracking
-- Browser/OS/Device detection
-- Referrer tracking
-- Page view analytics
+5. Background Tasks
+✅ Scheduled tasks: Run automatically at regular intervals
+✅ Background mode: Run the application in the background/system tray
+✅ Multi-task: Can run multiple tasks simultaneously
 
-✅ **Auto Backlink System:**
-- Automatic backlink generation
-- Multiple platform support
-- Backlink status monitoring
-- Domain Authority scoring
-- Scheduled automation
+6. Enhanced Proxy Management
+✅ Load from file: Supports various proxy formats
+✅ Round-robin: Automatic proxy rotation
+✅ Testing: Test all proxies at once
 
-✅ **Dashboard Features:**
-- Interactive charts
-- Real-time statistics
-- Backlink management
-- Export capabilities
-- User authentication
+7. Improved Logging
+✅ Level-based: INFO, WARNING, ERROR, SUCCESS, DEBUG, BACKGROUND
+✅ Auto-save: Automatically log to file
+✅ Real-time: Update logs in real-time
 
-✅ **Security Features:**
-- SQL injection protection
-- XSS prevention
-- Rate limiting
-- Secure authentication
-- Input validation
+* Reliability: Multi-threaded GUI so the app never freezes.
 
-## **Important Notes:**
+⚠️ WARNING: BotMan is a multi platform bot utility created strictly for:
 
-⚠️ **Disclaimer:**
-- This script is for **legitimate educational and monitoring purposes**
-- **DO NOT** use for spam or SEO manipulation
-- Always comply with the platform's Terms of Service
-- Use ethically and responsibly
-- Some backlink automation features are simulations only
+  ✔️ Authorized security assessments
+  ✔️ Educational demonstration within controlled environments
+  ✔️ Research on infrastructure you fully own or have explicit permission to test
 
-**For Production:**
-1. Use a PostgreSQL/MySQL database
-2. Implement caching (Redis)
-3. Set up SSL/TLS
-4. Rate limiting
-5. Regular backups
-6. Monitoring and alerting
+❌ Unauthorized or illegal use of this tool may violate international, federal, or local laws.
 
-This system provides a solid foundation for traffic analytics with backlink automation capabilities that can be customized to your needs.
+🛑 The creator of BotMan assumes **zero responsibility** for misuse, banned, damage, or legal consequences resulting from its deployment.
+
+💀 You—**the operator**—bear full responsibility for how and where this tool is used.
+
+## 🌐 Connect With Us
