@@ -4,8 +4,8 @@
 
 ```
 git clone https://github.com/readloud/Multi-Platform-Bot-Manager.git
-cd bot-manager
-pip3 install -r requirements.txt
+cd Multi-Platform-Bot-Manager
+python main.py
 ```
 
 # Linux (Debian/Ubuntu)
@@ -90,4 +90,5 @@ sudo apt update
 💀 You—**the operator**—bear full responsibility for how and where this tool is used.
 
 ## 🌐 Connect With Us
+
 
