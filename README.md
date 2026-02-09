@@ -1,4 +1,4 @@
-# BotMan 🔍👻 Multi Platform Bot Manager
+# BotMan 🔍👻 Multi Platform Bot Manager (trial and error)
 ---
 ### 🚀 **Installation**  
 
@@ -16,10 +16,6 @@ sudo apt update
 1. E-Commerce Traffic Bot
    
 ✅ TikTok Shop: Increase product traffic, simulate viewscrolls, add-to-carts
-
-✅ Lazada: Product visits, simulated interactions, add-to-carts
-
-✅ Shopee: Product traffic, simulated purchases, interactions with variations
 
 ✅ Multi-platform support: Can run on all platforms simultaneously
 
@@ -89,6 +85,7 @@ sudo apt update
 
 💀 You—**the operator**—bear full responsibility for how and where this tool is used.
 
-## 🌐 Connect With Us
+## 🌐 Connect With Us for reproduce and development
+
 
 
